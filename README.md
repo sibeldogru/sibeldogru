@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Sibel!
 
 ## 🔧 Technologies & Tools
-- Frontend: HTML/CSS
+- Frontend: HTML, CSS, Javascript, React
 - Backend: C#, .NET, APIs
 - Tools: Git, VS 
 
