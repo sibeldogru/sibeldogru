@@ -1,7 +1,5 @@
 # Hi there 👋 I'm Sibel!
 
-## 👩‍💻 About Me
-
 I'm a former translator & editor who transitioned into software development.  
 I enjoy building clean, user-friendly web applications with a strong focus on both **frontend UI/UX** and **backend architecture**.
 
